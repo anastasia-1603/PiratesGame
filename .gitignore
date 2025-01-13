@@ -1,3 +1,13 @@
 .vscode
 Logs
 .vs
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+Temp
+Library
